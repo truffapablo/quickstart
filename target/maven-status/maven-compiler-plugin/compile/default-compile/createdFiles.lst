@@ -1,2 +1,5 @@
-com\devpablo\quickstart\HelloWorldController.class
+com\devpablo\quickstart\Casa.class
 com\devpablo\quickstart\QuickstartApplication.class
+com\devpablo\quickstart\CasaController.class
+com\devpablo\quickstart\CasaService.class
+com\devpablo\quickstart\CasaRepository.class
